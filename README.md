@@ -1,4 +1,4 @@
-# GradleRIO
+# GradleRIO - an awesome project
 GradleRIO is a powerful Gradle Plugin that allows teams competing in the FIRST
 robotics competition to produce and build their code.
 
